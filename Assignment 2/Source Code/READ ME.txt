@@ -1,0 +1,21 @@
+Run the file "UI_Design.py"
+
+If the program does not run, run these commands on CMD
+1. pip install pylint
+2. pip install pyqt5
+3. pip install pyqt5 tools
+4. pip install nltk
+
+If these commands do not run, install python and tick the box 
+=> Add python to path
+
+If the program still does not run, run these commands on Python CLI
+1. import nltk
+2. nltk.download('wordnet')
+
+
+RESULTS:
+to see unranked results, set ranked=False on line number 292 in "UI_Design_k180182.py"
+ranked=True is set by default to give ranked results
+
+to change Alpha Value, go to line 294 in "main.py"
