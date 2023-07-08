@@ -1,0 +1,9 @@
+Run the file UI_Design.py
+
+If the program does not run, run these commands on cmd
+1. pip install pylint
+2. pip install pyqt5
+3. pip install pyqt5 tools
+
+If these commands do not run, install python and tick the box 
+=> Add python to path
