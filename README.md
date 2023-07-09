@@ -17,5 +17,5 @@ Feel free to explore the contents of each directory to gain a better understandi
 Please refer to the individual assignment directories for more specific instructions and guidelines related to each assignment.
 
 
-#User Interface (UI)
+# User Interface (UI)
 The user interface for both assignments is built using PyQt5 Designer, providing an intuitive graphical representation of the working models. The integration of PyQt5 Designer allows for enhanced functionality, including support for free text query search and phrase query search.
