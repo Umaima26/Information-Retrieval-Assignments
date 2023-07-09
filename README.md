@@ -11,6 +11,7 @@ Assignment 2 focuses on the Vector Space Model (VSM) for information retrieval. 
 The repository is structured as follows:
 
 **ShortStories:** A directory containing the collection of short stories used in both assignments.
+
 **Assignment 1 & Assignment 2:** Directories containing the materials related to the respective assignments, including the problem statement, my solution, some test queries, and relevant text files that are generated when you run the program.
 Each assignment directory may include additional files or subdirectories, depending on the specific requirements and implementation details of the assignment. The relevant text files generated during the program execution are stored within their respective assignment directories.
 Feel free to explore the contents of each directory to gain a better understanding of the assignments and access the necessary files for running the programs and evaluating the results.
