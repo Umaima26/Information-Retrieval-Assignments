@@ -7,7 +7,7 @@ Assignment 1 provides an opportunity to delve into the concepts of inverted inde
 # Assignment 2: Vector Space Model (VSM) for Information Retrieval
 Assignment 2 focuses on the Vector Space Model (VSM) for information retrieval. By building a vector space of features using tf*idf-based weighting, we can represent documents and queries in the same feature space. Cosine similarity allows us to compute the relevance scores between documents and queries. The pre-processing pipeline, including tokenization, case folding, stop-word removal, and lemmatization, helps us prepare the documents and queries for vector space representation. The implementation involves placing queries in the feature space and computing scores based on cosine similarity.
 
-#Repository Structure
+# Repository Structure
 The repository is structured as follows:
 
 **ShortStories:** A directory containing the collection of short stories used in both assignments.
