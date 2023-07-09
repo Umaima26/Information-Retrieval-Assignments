@@ -1,10 +1,10 @@
 # Information-Retrieval-Assignments
 This repository includes my academic assignments that I created while studying the elective "Information Retrieval" at university. The assignments focus on implementing Information Retrieval (IR) techniques and models to retrieve relevant information from a collection of Short Stories.
 
-#Assignment 1: Inverted Index and Boolean Retrieval Model
+# Assignment 1: Inverted Index and Boolean Retrieval Model
 Assignment 1 provides an opportunity to delve into the concepts of inverted index and the Boolean Retrieval Model. By implementing an inverted index and positional index, we can efficiently determine which documents contain specific terms and their proximity. The pre-processing pipeline, including tokenization, case folding, stop-word removal, and stemming, helps us prepare the documents for indexing. With a simplified Boolean query processing routine, we can execute queries combining terms using Boolean operators (AND, OR, and NOT).
 
-#Assignment 2: Vector Space Model (VSM) for Information Retrieval
+# Assignment 2: Vector Space Model (VSM) for Information Retrieval
 Assignment 2 focuses on the Vector Space Model (VSM) for information retrieval. By building a vector space of features using tf*idf-based weighting, we can represent documents and queries in the same feature space. Cosine similarity allows us to compute the relevance scores between documents and queries. The pre-processing pipeline, including tokenization, case folding, stop-word removal, and lemmatization, helps us prepare the documents and queries for vector space representation. The implementation involves placing queries in the feature space and computing scores based on cosine similarity.
 
 #Repository Structure
